@@ -1,0 +1,15 @@
+an exception is an abnormal condition that occurs during program execution and distrupt the normal flow of program 
+error - an error is a problem thet occur during program execution which is not recoverable and gernally not handled by program 
+check execpition - are those execption thet are at compile time and must be either handle using try catch or declare using throw  , these execption are check during compile time but occur during run time 
+intrupted execption - 
+io execption
+sql execption
+
+unchecked execpition ARE not checked by compiler and occur at run time handling them is mandatory
+null pointer 
+arthemetic 
+
+compiletime error(not exception)- are those error that are detected by compiler before program execution due to synatx and symantic issue and they dont allow program to compile 
+
+throw - throw is use explicity create and throw an execption object 
+ thow is used in method signature to declare execpition (mainly checked execpition) thet may be throw during and are to handled by color 
